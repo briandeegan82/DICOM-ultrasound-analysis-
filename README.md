@@ -265,8 +265,4 @@ ultrasound_study/
 
 ## License
 
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
+MIT

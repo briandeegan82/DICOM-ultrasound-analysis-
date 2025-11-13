@@ -1,0 +1,22 @@
+# Ultrasound Study Configuration
+# Bounding box and centerline coordinates
+
+# Bounding box coordinates
+bounding_box:
+  # Top-left corner
+  x_min: 41
+  y_min: 453
+  # Bottom-right corner
+  x_max: 952
+  y_max: 733
+
+# Centerline coordinates
+# List of points (x, y) defining the centerline path
+centerline_box:
+  # Top-left corner
+  x_min: 41
+  y_min: 620
+  # Bottom-right corner
+  x_max: 943
+  y_max: 630
+
